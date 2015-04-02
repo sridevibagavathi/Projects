@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pay Roll Management System</title>
+<base href="admin-login.php" target="_blank">
+</head>
+<body style="background-color:black" > 
+<div style="font-size:55px;font-family:Adobe Arabic;padding-left:300px;padding-top:300px">
+<a href="" style="color:white"><center>PAYROLL MANAGEMENT SYSTEM</center></a>
+</div>
+</body>
+</html>

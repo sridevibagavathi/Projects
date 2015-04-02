@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{73A3DEEF-34FF-4E67-8B39-6A2D4ED38777}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>patient_management_system.My.MyApplication</StartupObject>
+    <RootNamespace>patient_management_system</RootNamespace>
+    <AssemblyName>patient-management-system</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>patient-management-system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>patient-management-system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="deletepatient.Designer.vb">
+      <DependentUpon>deletepatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deletepatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctorlogin.Designer.vb">
+      <DependentUpon>doctorlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="doctorlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctorregistrationDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>doctorregistrationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="doctorviewpatient.Designer.vb">
+      <DependentUpon>doctorviewpatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="doctorviewpatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctor_patient.Designer.vb">
+      <DependentUpon>doctor_patient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="doctor_patient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fixappointment.Designer.vb">
+      <DependentUpon>fixappointment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fixappointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="patientdetailsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>patientdetailsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="patientdetailsDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>patientdetailsDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="receplogin.Designer.vb">
+      <DependentUpon>receplogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receplogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receploginDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>receploginDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="receptionist_and_doctor.Designer.vb">
+      <DependentUpon>receptionist_and_doctor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receptionist_and_doctor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist_Home_Page.Designer.vb">
+      <DependentUpon>Receptionist_Home_Page.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist_Home_Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registerdoctor.Designer.vb">
+      <DependentUpon>registerdoctor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registerdoctor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regpatientDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regpatientDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="viewpatient.Designer.vb">
+      <DependentUpon>viewpatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewpatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewpatientinform.Designer.vb">
+      <DependentUpon>viewpatientinform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewpatientinform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="deletepatient.resx">
+      <DependentUpon>deletepatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctorlogin.resx">
+      <DependentUpon>doctorlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctorviewpatient.resx">
+      <DependentUpon>doctorviewpatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctor_patient.resx">
+      <DependentUpon>doctor_patient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fixappointment.resx">
+      <DependentUpon>fixappointment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receplogin.resx">
+      <DependentUpon>receplogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receptionist_and_doctor.resx">
+      <DependentUpon>receptionist_and_doctor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receptionist_Home_Page.resx">
+      <DependentUpon>Receptionist_Home_Page.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registerdoctor.resx">
+      <DependentUpon>registerdoctor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewpatient.resx">
+      <DependentUpon>viewpatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewpatientinform.resx">
+      <DependentUpon>viewpatientinform.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="doctorregistrationDataSet.xsc">
+      <DependentUpon>doctorregistrationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="doctorregistrationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>doctorregistrationDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="doctorregistrationDataSet.xss">
+      <DependentUpon>doctorregistrationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="patientdetailsDataSet.xsc">
+      <DependentUpon>patientdetailsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="patientdetailsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>patientdetailsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="patientdetailsDataSet.xss">
+      <DependentUpon>patientdetailsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="patientdetailsDataSet1.xsc">
+      <DependentUpon>patientdetailsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="patientdetailsDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>patientdetailsDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="patientdetailsDataSet1.xss">
+      <DependentUpon>patientdetailsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="receploginDataSet.xsc">
+      <DependentUpon>receploginDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="receploginDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>receploginDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="receploginDataSet.xss">
+      <DependentUpon>receploginDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="regpatientDataSet.xsc">
+      <DependentUpon>regpatientDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="regpatientDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regpatientDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regpatientDataSet.xss">
+      <DependentUpon>regpatientDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-LOGIN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TopicSimple-NavyHealthHospital.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctorlogin.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hosp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\h1.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

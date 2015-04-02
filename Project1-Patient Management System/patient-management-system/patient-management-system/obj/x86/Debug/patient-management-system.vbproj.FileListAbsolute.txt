@@ -1,0 +1,48 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\patient-management-system\obj\x86\Debug\patient_management_system.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\patient-management-system\obj\x86\Debug\patient_management_system.receplogin.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\patient-management-system\obj\x86\Debug\patient_management_system.receptionist_and_doctor.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\patient-management-system\obj\x86\Debug\patient-management-system.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\bin\Debug\patient-management-system.exe.config
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\bin\Debug\patient-management-system.exe
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\bin\Debug\patient-management-system.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\bin\Debug\patient-management-system.xml
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.Resources.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.receplogin.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.receptionist_and_doctor.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.exe
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.xml
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.fixappointment.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.Receptionist_Home_Page.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.deletepatient.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.viewpatient.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.viewpatientinform.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.registerdoctor.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.doctorlogin.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.doctor_patient.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.doctorviewpatient.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\bin\Debug\patient-management-system.exe.config
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.exe
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.xml
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.pdb
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\bin\Debug\patient-management-system.exe
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\bin\Debug\patient-management-system.pdb
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\bin\Debug\patient-management-system.xml
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.deletepatient.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.doctorlogin.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.doctorviewpatient.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.doctor_patient.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.fixappointment.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.Resources.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.receplogin.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.receptionist_and_doctor.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.Receptionist_Home_Page.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.registerdoctor.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.viewpatient.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient_management_system.viewpatientinform.resources
+C:\Users\ADMIN\Desktop\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.vbproj.GenerateResource.Cache
+H:\Old-D\Projects-internship\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\bin\Debug\patient-management-system.exe.config
+H:\Old-D\Projects-internship\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.exe
+H:\Old-D\Projects-internship\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.xml
+H:\Old-D\Projects-internship\Sridevi Bagavathi K\Project1-Patient Management System\patient-management-system\patient-management-system\obj\x86\Debug\patient-management-system.pdb

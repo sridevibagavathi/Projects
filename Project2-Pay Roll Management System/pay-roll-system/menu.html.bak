@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WELCOME</title>
+<style>
+.slide {
+    margin-top: 95px;
+    margin-bottom: 25px;
+    margin-right: 2px;
+    margin-left: 20px;
+
+	padding-left:210px;
+	padding-right:5px;
+}
+
+
+#body,#nav {
+    border-color:white;
+    border-style: solid;
+    border-width: medium;	
+	
+}
+
+div#header {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+
+}
+#nav {
+    line-height:30px;
+    background-color:#333;
+    height:513px;
+    width:210px;
+    float:left;
+    padding:0px;
+ 
+}
+
+div#footer {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:10px;
+}
+
+#coolMenu,#coolMenu ul {
+	list-style: none;
+
+}
+#coolMenu {
+	float:left;
+}
+#coolMenu >li {
+	float:left;
+}
+#coolMenu li a {
+display: block;
+	height: 2em;
+	line-height: 2em;
+	padding :0  0.5em;
+	text-decoration: none;
+}
+
+#coolMenu ul {
+	position: absolute;
+	display: none;
+}
+
+#coolMenu ul li a {
+	width:80px;
+}
+#coolMenu li:hover ul {
+	display: block;
+}
+
+#coolMenu {
+	font-size: 20px;
+}
+
+#coolMenu > li > a {
+	color:white;
+	font-weight: bold;
+	
+}
+#coolMenu > li:hover > a {
+	background: white;
+	color: black;
+}
+
+
+#coolMenu ul li a {
+	color: white;
+	background-color:black;
+}
+#coolMenu ul li:hover a {
+	background:grey;
+}
+
+
+</style>
+</head>
+<body bgcolor="black">
+
+<div id="nav">
+<ul id="coolMenu">
+<li><a href="">ADMIN</a></li><br><br>
+<li><a href="#">Employee</a>
+<ul>
+<div style="font-size:10px"> 
+<li><a href="new-emloyee-entry.php">New Employee</a></li>
+<li><a href="update-employee-entry.php">Update Employee</a></li>
+<li><a href="update-employee-entry.php">Delete Employee</a></li>
+</div>
+</ul> 
+</li><br><br>
+<li><a href="#">PayRoll</a>
+<ul>
+<div style="font-size:10px">
+<li><a href="update-employee-entry.php">Basic Salary</a></li>
+<li><a href="update-employee-entry.php">Bonus</a></li>
+<li><a href="update-employee-entry.php">Incentive</a></li>
+<li><a href="update-employee-entry.php">Deduction</a></li>
+</div>
+</ul>
+</li><br><br>
+<li><a href="update-employee-entry.php">Report Pay Slip</a></li><br><br>
+</div>
+<div class="slide" >
+<div id="header" style="font-weight:bold;font-size:52px;color:white;padding-left:50px">
+<img src="bulb.jpg" height="50" width="50" /> PAYROLL
+
+<div style="font-size:20px;font-family: Adobe Arabic;padding-left:1000px">
+<a href="admin-login.php" tabindex="1" accesskey="H" style="color:white">LOGOUT</a> |
+<a href="" tabindex="2" accesskey="A" style="color:white">ABOUT</a> |
+<a href="" tabindex="3" accesskey="C" style="color:white">CONTACT</a>
+</div>
+ </div>
+
+<div id="body" >
+<marquee behavior="scroll" direction="left" scrollamount="20"  >
+<img src="bulb.jpg" width="700" height="300"  />
+<img src="dddd.jpg" width="800" height="300"  />
+<img src="download.jpg" width="800" height="300" />
+</marquee>
+</div>
+</div>
+<div id="footer" style="font-weight:bold""> <img src="fb.jpg" height="20" width="20" />Follow Us:
+<img src="google.jpg" height="20" width="20">
+<img src="twitter.jpg" height="20" width="20">  
+<div style="float:right;padding-right:20px">
+Customer Service |  Oppurtunities | Copyright &copy 2015 PayRoll Management System.</div>
+</div>
+</body>
+</html>
+
